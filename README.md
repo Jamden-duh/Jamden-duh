@@ -1,0 +1,6 @@
+- 👋 Hi! I'm Camden Doyle
+- I’m interested in anything from game design and web development, as well as political and social activism.
+- I’m currently teaching myself HTML, CSS, and Javascript to improve my web development skills, and I am creating a portfolio website for my crochet to put my skills to the test.
+- You can reach me at doyle.camden.l@gmail.com
+- Pronouns: she/he
+- Fun fact: I can recite all of the first Jurrassic Park movie by heart.
