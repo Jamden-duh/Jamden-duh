@@ -1,6 +1,7 @@
 - 👋 Hi! I'm Camden Doyle
 - I’m interested in anything from game design and web development, as well as political and social activism.
-- I’m currently teaching myself HTML, CSS, and Javascript to improve my web development skills, and I am creating a portfolio website for my crochet to put my skills to the test.
-- You can reach me at doyle.camden.l@gmail.com
+- Currently working on Fishodoro at MAGIC studios under the Traver program as the Creative Director, doing all art, asset production, and visual design.
+- I am also currently in the design stages for a personal video game I am making!
+- Ask me about anything at doyle.camden.l@gmail.com
 - Pronouns: she/he
-- Fun fact: I can recite all of the first Jurrassic Park movie by heart.
+- Fun fact: I can recite all of the first Jurassic Park movie by heart.
